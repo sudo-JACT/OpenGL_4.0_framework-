@@ -18,4 +18,4 @@ systemclass.o: systemclass.cpp
 
 clean: 
 
-	rm *.o
+	rm *.o && rm client
