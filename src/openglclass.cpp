@@ -2,18 +2,18 @@
 
 OpenGLClass::OpenGLClass() {
 
-    //lol
+  //lol
 
 }
 
 OpenGLClass::OpenGLClass(const OpenGLClass &other) {
 
-    //lol
+  //lol
 
 }
 
 OpenGLClass::~OpenGLClass() {
 
-    //lol
+  //lol
 
 }

@@ -5,9 +5,9 @@
 class ApplicationClass {
 
   public:
-  ApplicationClass();
-  ApplicationClass(const ApplicationClass &);
-  ~ApplicationClass();
+    ApplicationClass();
+    ApplicationClass(const ApplicationClass &);
+    ~ApplicationClass();
 
   private:
 
