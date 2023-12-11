@@ -2,18 +2,18 @@
 
 ApplicationClass::ApplicationClass() {
 
-    //lol
+  //lol
 
 }
 
 ApplicationClass::ApplicationClass(const ApplicationClass &other) {
 
-    //lol
+  //lol
 
 }
 
 ApplicationClass::~ApplicationClass() {
 
-    //lol
+  //lol
 
 }

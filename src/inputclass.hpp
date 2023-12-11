@@ -4,13 +4,13 @@
 
 class InputClass {
 
-    public:
+  public:
     
-        InputClass();
-        InputClass(const InputClass &);
-        ~InputClass();
+  InputClass();
+  InputClass(const InputClass &);
+  ~InputClass();
 
-    private:
+  private:
 
 };
 

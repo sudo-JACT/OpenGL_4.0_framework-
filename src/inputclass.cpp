@@ -2,18 +2,18 @@
 
 InputClass::InputClass() {
 
-    //lol
+  //lol
 
 }
 
 InputClass::InputClass(const InputClass &other) {
 
-    //lol
+  //lol
 
 }
 
 InputClass::~InputClass() {
 
-    //lol
+  //lol
 
 }

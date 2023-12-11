@@ -4,13 +4,13 @@
 
 class ApplicationClass {
 
-    public:
-        ApplicationClass();
-        ApplicationClass(const ApplicationClass &);
-        ~ApplicationClass();
+  public:
+  ApplicationClass();
+  ApplicationClass(const ApplicationClass &);
+  ~ApplicationClass();
 
-    private:
-    
+  private:
+
 };
 
 #endif
